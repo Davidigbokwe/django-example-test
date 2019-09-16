@@ -26,7 +26,7 @@ SECRET_KEY = 'xr1(5m31xi=a*jcqzax9420p$u87deon+f43pgx6)k-ok=9w8d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['delos.pythonanywhere.com']
 
 
 # Application definition
